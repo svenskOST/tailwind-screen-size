@@ -1,0 +1,14 @@
+{
+   "name": "@svenskost/tailwind-screen-size",
+   "private": false,
+   "version": "1.0.0",
+   "main": "dist/index.js",
+   "files": [
+      "dist"
+   ],
+   "license": "MIT",
+   "peerDependencies": {
+      "react": ">=16.8.0",
+      "react-dom": ">=16.8.0"
+   }
+}
