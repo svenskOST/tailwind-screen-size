@@ -16,7 +16,16 @@ export default function TailwindScreenSize() {
    }, [width])
 
    return (
-      <div className='fixed mt-2 ml-2 text-400 text-green-800 z-100'>
+      <div
+         style={{
+            position: 'fixed',
+            top: '.5rem',
+            left: '.5rem',
+            zIndex: 100,
+            color: '#016630',
+            fontSize: '1.25rem',
+         }}
+      >
          {width > 1536
             ? '2xl'
             : width > 1280
