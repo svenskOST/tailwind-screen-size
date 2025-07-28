@@ -25,7 +25,7 @@ A lightweight component that I created to actively show the current Tailwind scr
 Using npm:
 
 ```npm
-  npm install @svenskost/tailwind-screen-size
+  npm install @svenskost/tailwind-screen-size -D
 ```
     
 ## Usage
