@@ -21,7 +21,7 @@ export default function TailwindScreenSize() {
             position: 'fixed',
             top: '.5rem',
             left: '.5rem',
-            zIndex: 100,
+            zIndex: 9999,
             color: '#016630',
             fontSize: '1.25rem',
          }}
